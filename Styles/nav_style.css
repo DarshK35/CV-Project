@@ -1,0 +1,40 @@
+.nav-div {
+	text-align: center;
+	
+}
+
+.nav-bar {
+	background-color: indigo;
+	padding: 10px 10px;
+	margin: 0px 10%;
+	overflow: hidden;
+	list-style-type: none;
+	display: block;
+}
+.nav-list-item {
+	display: block;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: white;
+	padding: 5px 5px;
+	size: auto auto;
+	display: block;
+	float: left;
+}
+.nav-link:hover {
+	background-color: blueviolet;
+}
+.nav-link-current {
+	background-color: blueviolet;
+	text-decoration: none;
+	color: white;
+	padding: 5px 3px;
+	display: block;
+	float: left;
+}
+
+body {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

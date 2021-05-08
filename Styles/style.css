@@ -1,0 +1,60 @@
+html {
+	height: 100%;
+}
+body {
+	background-color: rgba(95, 82, 178, 0.833);
+	margin: 0% 10%;
+	height: 100%;
+}
+
+.main {
+	background-color: rgb(236, 234, 255);
+	margin: 0px 10%;
+	padding: 10px 20px 80px 20px;
+	min-height: 60%;
+}
+
+.header {
+	background-color: indigo;
+	width: 80%;
+	height: 70px;
+	margin: 0px 10% 0px;
+	text-align: right;
+	color: white;
+}
+.header h1 {
+	padding: 30px 20px 10px;
+	margin: 0px;
+}
+
+.footer {
+	background-color: indigo;
+	width: 64%;
+	height: 120px;
+	margin: 0px 10% 0px;
+	padding-bottom: 30px;
+	position: absolute;
+	bottom: 0px;
+	left: 8%;
+	text-align: right;
+	color: white;
+}
+.footer h1 {
+	padding: 30px 20px 30px;
+	margin: 0px;
+}
+.footer a {
+	text-decoration: none;
+	color: white;
+}
+
+.cv-entry {
+	padding-bottom: 5px;
+}
+.cv-entry p {
+	display: inline;
+}
+.code-text {
+	font-family: Consolas;
+	background-color: rgb(212, 201, 233);
+}
