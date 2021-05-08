@@ -10,6 +10,7 @@
 	overflow: hidden;
 	list-style-type: none;
 	display: block;
+	border-top: 2px solid white;
 }
 .nav-list-item {
 	display: block;
