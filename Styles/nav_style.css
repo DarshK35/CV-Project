@@ -23,6 +23,7 @@
 	size: auto auto;
 	display: block;
 	float: left;
+	transition: 0.3s;
 }
 .nav-link:hover {
 	background-color: blueviolet;
